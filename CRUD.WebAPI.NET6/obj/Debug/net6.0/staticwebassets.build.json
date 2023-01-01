@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IR3aSK6r7BBPH8GhYGzQOra6PnuJK6I2i82neCugdNQ=",
+  "Source": "CRUD.WebAPI.NET6",
+  "BasePath": "_content/CRUD.WebAPI.NET6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
