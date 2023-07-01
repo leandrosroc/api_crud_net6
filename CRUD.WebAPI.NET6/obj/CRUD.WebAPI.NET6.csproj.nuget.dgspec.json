@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\dotnet-6-aspnet-core-api-crud\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj": {}
+    "D:\\Projects\\api_crud_net6\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\dotnet-6-aspnet-core-api-crud\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj": {
+    "D:\\Projects\\api_crud_net6\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\dotnet-6-aspnet-core-api-crud\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj",
+        "projectUniqueName": "D:\\Projects\\api_crud_net6\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj",
         "projectName": "CRUD.WebAPI.NET6",
-        "projectPath": "D:\\Projetos\\dotnet-6-aspnet-core-api-crud\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj",
+        "projectPath": "D:\\Projects\\api_crud_net6\\CRUD.WebAPI.NET6\\CRUD.WebAPI.NET6.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\dotnet-6-aspnet-core-api-crud\\CRUD.WebAPI.NET6\\obj\\",
+        "outputPath": "D:\\Projects\\api_crud_net6\\CRUD.WebAPI.NET6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,11 +42,11 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "BCrypt.Net-Next": {
               "target": "Package",
@@ -54,11 +54,11 @@
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
